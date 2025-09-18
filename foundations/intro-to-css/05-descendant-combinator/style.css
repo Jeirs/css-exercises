@@ -1,5 +1,7 @@
 /* Add CSS Styling */
 
+
+/* need a space between class selection to use descendent combinator */
 .container .text{
     color: red;
     background-color: yellow;
